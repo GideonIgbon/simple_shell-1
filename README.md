@@ -1,1 +1,1 @@
-This is a readme for simple shell
+This is a readme for the simple shell project
